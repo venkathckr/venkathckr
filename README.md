@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Venkat!
 ![](https://media-exp1.licdn.com/dms/image/C5616AQHBfb3t0crMuQ/profile-displaybackgroundimage-shrink_200_800/0/1626482130092?e=1635984000&v=beta&t=bmFWMbCFeB3j_479O775KfsseY8zD6LtNeQfSTvJxWs)
 
-I am working as DevOps Engineer in phData Inc
+I am working as DevOps Engineer in Scienaptic AI
 
 Skills: Snowflake | Python | Hadoop | Ansible | Shell scripting
 
